@@ -118,7 +118,7 @@
           "ZM"
         ]
       },
-      "description": "Root node for the African genre taxonomy graph.",
+      "description": "Root node for the Afrotaxonomy graph.",
       "status": "active",
       "source_path": "data/genres/root.yaml"
     },

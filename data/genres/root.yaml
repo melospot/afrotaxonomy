@@ -8,5 +8,5 @@ subgenres:
   - hip_hop
 origin:
   countries: [ZA, NG, GH, TZ, CD, ZM]
-description: Root node for the African genre taxonomy graph.
+description: Root node for the Afrotaxonomy graph.
 status: active
