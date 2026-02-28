@@ -1,4 +1,4 @@
-# African Genre Taxonomy
+# Afrotaxonomy
 
 A structured, file-based taxonomy for African music genres and subgenres.
 
