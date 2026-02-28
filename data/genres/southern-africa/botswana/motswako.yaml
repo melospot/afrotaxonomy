@@ -1,0 +1,11 @@
+id: motswako
+name: Motswako
+aliases: [Setswana Hip Hop]
+parents: [hip_hop]
+origin:
+  countries: [ZA, BW]
+tags:
+  language: [setswana, english]
+  region: [southern_africa]
+description: Setswana-rooted hip hop associated with South Africa and Botswana.
+status: active

@@ -1,0 +1,12 @@
+id: african_music
+name: African Music
+aliases: [African Genres]
+parents: []
+subgenres:
+  - african_pop
+  - house
+  - hip_hop
+origin:
+  countries: [ZA, NG, GH, TZ, CD, ZM]
+description: Root node for the African genre taxonomy graph.
+status: active

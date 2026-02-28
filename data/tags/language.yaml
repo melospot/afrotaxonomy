@@ -1,0 +1,12 @@
+id: language
+description: Common lyrical language tags.
+values:
+  - english
+  - swahili
+  - setswana
+  - nyanja
+  - bemba
+  - zulu
+  - xhosa
+  - yoruba
+  - pidgin

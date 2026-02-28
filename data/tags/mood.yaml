@@ -1,0 +1,9 @@
+id: mood
+description: Emotional or expressive traits.
+values:
+  - soulful
+  - lyrical
+  - conscious
+  - celebratory
+  - mellow
+  - intense

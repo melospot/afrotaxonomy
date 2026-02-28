@@ -1,0 +1,8 @@
+id: vocal_amapiano
+name: Vocal Amapiano
+aliases: [Sung Amapiano]
+parents: [amapiano]
+origin:
+  countries: [ZA]
+description: Amapiano variant where vocals and toplines lead the arrangement.
+status: active

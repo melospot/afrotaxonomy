@@ -1,0 +1,9 @@
+id: era
+description: Temporal labels for releases or dominant periods.
+values:
+  - pre_1980
+  - 1980s
+  - 1990s
+  - 2000s
+  - 2010s
+  - 2020s

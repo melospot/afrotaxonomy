@@ -1,0 +1,8 @@
+id: fuji
+name: Fuji
+aliases: [ Fuji Music ]
+parents: [ african_pop ]
+origin:
+  countries: [NG]
+description: Yoruba-rooted Nigerian genre with percussion-heavy arrangements and praise-singing traditions.
+status: active

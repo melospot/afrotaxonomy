@@ -1,0 +1,8 @@
+id: house
+name: House
+aliases: [House Music]
+parents: [african_music]
+origin:
+  countries: [US]
+description: Electronic dance genre used as a parent for regional and stylistic house variants.
+status: active

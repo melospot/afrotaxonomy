@@ -1,0 +1,8 @@
+id: durban_kwaito
+name: Durban Kwaito
+aliases: [Durban-style Kwaito]
+parents: [kwaito]
+origin:
+  countries: [ZA]
+description: Regional Kwaito variant associated with Durban scenes and local dance culture.
+status: active

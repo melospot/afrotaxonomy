@@ -1,0 +1,11 @@
+id: culture
+description: Cultural identity and scene descriptors.
+values:
+  - african
+  - zambian
+  - south_african
+  - tanzanian
+  - nigerian
+  - ghanaian
+  - congolese
+  - botswanan

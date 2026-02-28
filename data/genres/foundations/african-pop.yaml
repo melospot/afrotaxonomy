@@ -1,0 +1,8 @@
+id: african_pop
+name: African Pop
+aliases: [Afro Pop]
+parents: [african_music]
+origin:
+  countries: [NG, GH, ZA, TZ, CD, ZM]
+description: Umbrella genre for contemporary African popular music styles.
+status: active

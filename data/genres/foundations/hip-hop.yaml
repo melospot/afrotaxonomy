@@ -1,0 +1,8 @@
+id: hip_hop
+name: Hip Hop
+aliases: [Hip-Hop, Rap]
+parents: [african_music]
+origin:
+  countries: [US]
+description: Global genre family centered on rap, beats, and hip hop culture.
+status: active

@@ -1,0 +1,8 @@
+id: guz_kwaito
+name: Guz
+aliases: [Guz Kwaito]
+parents: [kwaito]
+origin:
+  countries: [ZA]
+description: Kwaito-linked style label used in local scenes.
+status: active

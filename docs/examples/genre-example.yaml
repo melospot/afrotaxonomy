@@ -1,0 +1,12 @@
+id: example_subgenre
+name: Example Subgenre
+aliases: [Example Style]
+parents: [example_parent]
+origin:
+  countries: [ZA]
+tags:
+  geo: [southern_africa]
+  language: [english]
+  mood: [celebratory]
+description: Example record showing recommended field usage.
+status: experimental

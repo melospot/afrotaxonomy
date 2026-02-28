@@ -1,0 +1,3 @@
+source: apple_music
+description: External mapping table from internal genre IDs to Apple Music labels.
+mappings: []

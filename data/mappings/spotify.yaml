@@ -1,0 +1,3 @@
+source: spotify
+description: External mapping table from internal genre IDs to Spotify labels.
+mappings: []

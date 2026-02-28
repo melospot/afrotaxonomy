@@ -1,0 +1,9 @@
+id: instrumentation
+description: Dominant instruments or production elements.
+values:
+  - log_drum
+  - guitar
+  - percussion
+  - synth_bass
+  - keys
+  - vocal_chops

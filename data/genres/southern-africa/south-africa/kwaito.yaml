@@ -1,0 +1,12 @@
+id: kwaito
+name: Kwaito
+aliases: [Kwaito]
+parents: [african_pop]
+subgenres:
+  - durban_kwaito
+  - guz_kwaito
+  - kwai_jazz
+origin:
+  countries: [ZA]
+description: South African style rooted in slowed house grooves, township culture, and local vernaculars.
+status: active

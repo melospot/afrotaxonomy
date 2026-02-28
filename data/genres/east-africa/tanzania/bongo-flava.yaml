@@ -1,0 +1,8 @@
+id: bongo_flava
+name: Bongo Flava
+aliases: [ Bongo Flava Music ]
+parents: [ african_pop ]
+origin:
+  countries: [TZ]
+description: Tanzanian pop and hip hop blend with Swahili lyrical focus.
+status: active

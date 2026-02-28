@@ -1,0 +1,21 @@
+id: geo
+description: Geographic context tags for scenes and markets.
+values:
+  - id: southern_africa
+    label: Southern Africa
+    countries: [ZA, BW, ZM, ZW, MZ, NA, LS, SZ, AO, MW]
+  - id: west_africa
+    label: West Africa
+    countries: [NG, GH, SN, CI, ML, NE, BJ, TG, SL, LR]
+  - id: east_africa
+    label: East Africa
+    countries: [TZ, KE, UG, RW, BI, ET, SO, DJ, ER, SS]
+  - id: central_africa
+    label: Central Africa
+    countries: [CD, CG, CM, CF, TD, GQ, GA, ST]
+  - id: north_africa
+    label: North Africa
+    countries: [DZ, EG, LY, MA, SD, TN]
+  - id: zambia
+    label: Zambia
+    countries: [ZM]

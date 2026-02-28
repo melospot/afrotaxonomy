@@ -1,0 +1,18 @@
+id: zed_hip_hop
+name: Zed Hip Hop
+aliases: [ Zambian Hip Hop, Zed Hip-Hop ]
+parents: [ hip_hop ]
+origin:
+  countries: [ZM]
+tags:
+  geo: [southern_africa, zambia]
+  language: [english, nyanja, bemba]
+  culture: [african, zambian]
+  mood: [lyrical, conscious]
+  rhythm: [trap]
+  style: [afrobeat_influenced]
+description: Hip hop from Zambia with local linguistic and stylistic markers.
+status: active
+references:
+  - https://en.wikipedia.org/wiki/Zambian_hip_hop
+  - https://www.musicinafrica.net/magazine/hip-hop-zambia

@@ -1,0 +1,8 @@
+id: afrobeats
+name: Afrobeats
+aliases: [ Afrobeat, Afro-pop ]
+parents: [ african_pop ]
+origin:
+  countries: [NG, GH]
+description: Contemporary West African pop style with global dance and hip hop influence.
+status: active

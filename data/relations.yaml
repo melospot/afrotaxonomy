@@ -1,0 +1,54 @@
+relation_types:
+  parent_of:
+    inverse: child_of
+    description: Taxonomy hierarchy edge between a broader genre and a narrower genre.
+  influenced_by:
+    inverse: influences
+    description: A directional influence relationship between styles.
+  fusion_of:
+    inverse: fused_into
+    description: A style that combines two or more parent traditions.
+
+relations:
+  - type: parent_of
+    source: african_music
+    target: african_pop
+  - type: parent_of
+    source: african_music
+    target: house
+  - type: parent_of
+    source: african_music
+    target: hip_hop
+  - type: parent_of
+    source: amapiano
+    target: private_school_amapiano
+  - type: parent_of
+    source: amapiano
+    target: bacardi_amapiano
+  - type: parent_of
+    source: amapiano
+    target: vocal_amapiano
+  - type: parent_of
+    source: amapiano
+    target: soulful_amapiano
+  - type: parent_of
+    source: amapiano
+    target: afropiano
+  - type: parent_of
+    source: amapiano
+    target: experimental_amapiano
+  - type: parent_of
+    source: kwaito
+    target: durban_kwaito
+  - type: parent_of
+    source: kwaito
+    target: guz_kwaito
+  - type: parent_of
+    source: kwaito
+    target: kwai_jazz
+  - type: influenced_by
+    source: amapiano
+    target: kwaito
+  - type: influenced_by
+    source: afropiano
+    target: afrobeats

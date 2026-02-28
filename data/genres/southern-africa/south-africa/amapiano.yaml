@@ -1,0 +1,15 @@
+id: amapiano
+name: Amapiano
+aliases: [ Amapiano Music ]
+parents: [ house ]
+subgenres:
+  - private_school_amapiano
+  - bacardi_amapiano
+  - vocal_amapiano
+  - soulful_amapiano
+  - afropiano
+  - experimental_amapiano
+origin:
+  countries: [ZA]
+description: South African dance genre blending house, jazz, lounge, and township influences.
+status: active

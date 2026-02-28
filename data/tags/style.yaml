@@ -1,0 +1,7 @@
+id: style
+description: Broad stylistic descriptors.
+values:
+  - jazzy
+  - vocal_led
+  - instrumental
+  - afrobeat_influenced

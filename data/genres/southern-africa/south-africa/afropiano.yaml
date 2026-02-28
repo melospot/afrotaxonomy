@@ -1,0 +1,8 @@
+id: afropiano
+name: Afropiano
+aliases: [Afro-Piano]
+parents: [amapiano]
+origin:
+  countries: [ZA, NG]
+description: Cross-pollinated style combining Amapiano grooves with Afrobeats sensibilities.
+status: active

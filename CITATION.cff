@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: Afrotaxonomy: A Taxonomy of African Music Genres
+message: "If you use this taxonomy, please cite it using this metadata."
+type: dataset
+authors:
+  - family-names: Afrotaxonomy
+    given-names: Contributors
+repository-code: https://github.com/melospot/afrotaxonomy
+license: MIT
+version: 0.1.0
+date-released: 2026-02-28

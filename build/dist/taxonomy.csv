@@ -1,0 +1,23 @@
+id,name,parents,status,source_path
+kwasa_kwasa,Kwasa Kwasa,african_pop,active,data/genres/central-africa/drc/kwasa-kwasa.yaml
+bongo_flava,Bongo Flava,african_pop,active,data/genres/east-africa/tanzania/bongo-flava.yaml
+african_pop,African Pop,african_music,active,data/genres/foundations/african-pop.yaml
+hip_hop,Hip Hop,african_music,active,data/genres/foundations/hip-hop.yaml
+house,House,african_music,active,data/genres/foundations/house.yaml
+african_music,African Music,,active,data/genres/root.yaml
+motswako,Motswako,hip_hop,active,data/genres/southern-africa/botswana/motswako.yaml
+afropiano,Afropiano,amapiano,active,data/genres/southern-africa/south-africa/afropiano.yaml
+amapiano,Amapiano,house,active,data/genres/southern-africa/south-africa/amapiano.yaml
+bacardi_amapiano,Bacardi Amapiano,amapiano,active,data/genres/southern-africa/south-africa/bacardi-amapiano.yaml
+durban_kwaito,Durban Kwaito,kwaito,active,data/genres/southern-africa/south-africa/durban-kwaito.yaml
+experimental_amapiano,Experimental Amapiano,amapiano,active,data/genres/southern-africa/south-africa/experimental-amapiano.yaml
+guz_kwaito,Guz,kwaito,active,data/genres/southern-africa/south-africa/guz-kwaito.yaml
+kwai_jazz,Kwai-jazz,kwaito,active,data/genres/southern-africa/south-africa/kwai-jazz.yaml
+kwaito,Kwaito,african_pop,active,data/genres/southern-africa/south-africa/kwaito.yaml
+private_school_amapiano,Private School Amapiano,amapiano,active,data/genres/southern-africa/south-africa/private-school-amapiano.yaml
+soulful_amapiano,Soulful Amapiano,amapiano,active,data/genres/southern-africa/south-africa/soulful-amapiano.yaml
+vocal_amapiano,Vocal Amapiano,amapiano,active,data/genres/southern-africa/south-africa/vocal-amapiano.yaml
+kalindula,Kalindula,african_pop,active,data/genres/southern-africa/zambia/kalindula.yaml
+zed_hip_hop,Zed Hip Hop,hip_hop,active,data/genres/southern-africa/zambia/zed-hip-hop.yaml
+afrobeats,Afrobeats,african_pop,active,data/genres/west-africa/nigeria/afrobeats.yaml
+fuji,Fuji,african_pop,active,data/genres/west-africa/nigeria/fuji.yaml

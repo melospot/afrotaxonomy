@@ -1,0 +1,8 @@
+id: experimental_amapiano
+name: Experimental Amapiano
+aliases: [Alternative Amapiano]
+parents: [amapiano]
+origin:
+  countries: [ZA]
+description: Boundary-pushing Amapiano that blends non-standard tempos, textures, or structures.
+status: active

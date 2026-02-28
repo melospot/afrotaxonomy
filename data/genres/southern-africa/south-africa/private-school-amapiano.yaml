@@ -1,0 +1,8 @@
+id: private_school_amapiano
+name: Private School Amapiano
+aliases: [Private School]
+parents: [amapiano]
+origin:
+  countries: [ZA]
+description: Amapiano variant with cleaner arrangements and jazz-leaning chord progressions.
+status: active

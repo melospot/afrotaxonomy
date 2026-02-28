@@ -1,0 +1,3 @@
+source: beatport
+description: External mapping table from internal genre IDs to Beatport labels.
+mappings: []
